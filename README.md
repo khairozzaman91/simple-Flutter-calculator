@@ -1,16 +1,40 @@
-# calculator_project
+# Calculator App
 
-A new Flutter project.
+A simple Flutter calculator app with a clean and minimal UI.
+
+![calcu](https://github.com/user-attachments/assets/077c3dfa-2a01-48c2-8936-446261409587)
+
+## Features
+
+- Basic arithmetic operations: addition (+), subtraction (-), multiplication (×), division (÷)  
+- Decimal numbers support  
+- Backspace (C) button removes one character at a time  
+- Rounded output for normal results  
+- Scientific notation for very large results  
+- Input display shows the numbers and operations as you type  
+- Output display shows the result after pressing `=`  
+
+## How to Use
+
+1. Tap numbers (`0-9`) and decimal (`.`) to enter values.  
+2. Tap an operator (`+`, `-`, `×`, `÷`) to perform calculation.  
+3. Tap `C` to delete the last character one by one.  
+4. Tap `=` to calculate the result.  
+5. Large results are shown in scientific notation if needed.  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make sure you have Flutter installed.  
+2. Clone the repository:  
+  
+ git clone 
+ 
+Navigate into the project folder:
 
-A few resources to get you started if this is your first Flutter project:
+cd calculator_app
+Get dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter pub get
+Run on an emulator or connected device:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
