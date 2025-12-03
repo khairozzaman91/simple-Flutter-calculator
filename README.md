@@ -2,7 +2,7 @@
 
 A simple Flutter calculator app with a clean and minimal UI.
 
-<img src="https://github.com/user-attachments/assets/077c3dfa-2a01-48c2-8936-446261409587" height="350" width="200" />
+<img src="https://github.com/user-attachments/assets/077c3dfa-2a01-48c2-8936-446261409587" height="400" width="250" />
 
 ## Features
 
